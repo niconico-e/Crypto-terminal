@@ -14,7 +14,7 @@ Usage
 - git clone https://github.com/niconico-e/Crypto-terminal/
 - cd Crypto-terminal
 - chmod +x cr.sh
-- ./cr.sh
+- ./crypto.sh
 and thats it!
 
 
