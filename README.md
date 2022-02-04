@@ -7,7 +7,14 @@ installed.
 Dependicies required
 
 -curl
+git
 
+Usage
+
+- git clone https://github.com/niconico-e/Crypto-terminal/
+- cd Crypto-terminal
+- chmod +x cr.sh
+- ./cr.sh
 and thats it!
 
 
