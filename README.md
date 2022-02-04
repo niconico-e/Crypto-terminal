@@ -4,7 +4,7 @@ View prices,charts and more details on your terminal
 
 Dependicies required
 
-curl
+-curl
 
 and thats it!
 
